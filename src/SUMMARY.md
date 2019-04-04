@@ -1,3 +1,5 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [The ebooks](./ebooks.md)
+
+[About](./about.md)
