@@ -1,0 +1,67 @@
+[[book]]
+title = "The Rust Programming Language"
+repo-url = "https://github.com/rust-lang/book.git"
+url = "https://doc.rust-lang.org/stable/book/index.html"
+
+[[book]]
+title = "Rust by Example"
+repo-url = "https://github.com/rust-lang/rust-by-example.git"
+url = "https://doc.rust-lang.org/stable/rust-by-example/"
+
+[[book]]
+title = "Rust Cookbook"
+repo-url = "https://github.com/rust-lang-nursery/rust-cookbook.git"
+url = "https://github.com/rust-lang-nursery/rust-cookbook"
+
+[[book]]
+title = "The Edition Guide"
+repo-url = "https://github.com/rust-lang-nursery/edition-guide.git"
+url = "https://doc.rust-lang.org/nightly/edition-guide/"
+
+[[book]]
+title = "The Rustc Book"
+repo-url = "https://github.com/rust-lang/rustc-guide.git"
+url = "https://doc.rust-lang.org/stable/rustc/index.html"
+
+[[book]]
+title = "The Cargo Book"
+repo-url = "https://github.com/rust-lang/cargo.git"
+url = "https://doc.rust-lang.org/stable/cargo/index.html"
+folder = "./src/doc/"
+
+[[book]]
+title = "The Rustdoc Book"
+repo-url = "https://github.com/rust-lang/rust.git"
+url = "https://doc.rust-lang.org/stable/rustdoc/index.html"
+folder = "src/doc/rustdoc/"
+
+[[book]]
+title = "Reference"
+repo-url = "https://github.com/rust-lang-nursery/reference.git"
+url = "https://doc.rust-lang.org/stable/reference/index.html"
+
+[[book]]
+title = "The Rustonomicon"
+repo-url = "https://github.com/rust-lang-nursery/nomicon.git"
+url = "https://doc.rust-lang.org/stable/nomicon/index.html"
+
+[[book]]
+title = "The Rust Unstable Book"
+repo-url = "https://github.com/rust-lang/rust.git"
+url = "https://doc.rust-lang.org/stable/unstable-book/index.html"
+folder = "src/doc/unstable-book"
+
+[[book]]
+title = "The Embedded Rust Book"
+repo-url = "https://github.com/rust-embedded/book.git"
+url = "https://doc.rust-lang.org/nightly/embedded-book/index.html"
+
+[[book]]
+title = "Rust API Guidelines"
+repo-url = "https://github.com/rust-lang-nursery/api-guidelines.git"
+url = "https://rust-lang-nursery.github.io/api-guidelines/"
+
+[[book]]
+title = "Asynchronous Programming in Rust"
+repo-url = "https://github.com/rust-lang/async-book.git"
+url = "https://rust-lang.github.io/async-book/"
