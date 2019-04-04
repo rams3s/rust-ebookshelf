@@ -1,0 +1,5 @@
+[book]
+authors = ["Ramses Ladlani"]
+multilingual = false
+src = "src"
+title = "The Rust eBookshelf"
