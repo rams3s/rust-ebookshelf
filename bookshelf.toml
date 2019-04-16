@@ -1,3 +1,8 @@
+title = "The Rust Language & Ecosystem"
+destination-dir = "src"
+templates-dir = "templates"
+working-dir = "repos"
+
 [[book]]
 repo-url = "https://github.com/rust-lang/book.git"
 url = "https://doc.rust-lang.org/stable/book/index.html"
@@ -21,7 +26,7 @@ url = "https://doc.rust-lang.org/stable/rustc/index.html"
 [[book]]
 repo-url = "https://github.com/rust-lang/cargo.git"
 url = "https://doc.rust-lang.org/stable/cargo/index.html"
-folder = "./src/doc/"
+folder = "src/doc/"
 
 [[book]]
 title = "The Rustdoc Book"
