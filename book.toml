@@ -3,3 +3,9 @@ authors = ["Ramses Ladlani"]
 multilingual = false
 src = "src"
 title = "The Rust eBookshelf"
+
+[build]
+build-dir = "docs"
+
+[output.html.search]
+enable = false
