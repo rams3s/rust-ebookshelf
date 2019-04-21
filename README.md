@@ -1,5 +1,7 @@
 # The Rust eBookshelf
 
+[![Build Status](https://travis-ci.org/rams3s/rust-ebookshelf.svg?branch=master)](https://travis-ci.org/rams3s/rust-ebookshelf)
+
 This [project](https://rust-ebookshelf.github.io) aims at providing the community with nightly builds of all official rust mdbooks in epub format.
 It is born out of the difficulty I encountered when starting my rust apprenticeship to find recent ebook versions of the official documentation.
 
