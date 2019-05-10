@@ -15,9 +15,9 @@ url = "https://doc.rust-lang.org/stable/rust-by-example/"
 repo-url = "https://github.com/rust-lang-nursery/rust-cookbook.git"
 url = "https://github.com/rust-lang-nursery/rust-cookbook"
 
-[[book]]
-repo-url = "https://github.com/rust-lang-nursery/edition-guide.git"
-url = "https://doc.rust-lang.org/nightly/edition-guide/"
+#[[book]]
+#repo-url = "https://github.com/rust-lang-nursery/edition-guide.git"
+#url = "https://doc.rust-lang.org/nightly/edition-guide/"
 
 [[book]]
 repo-url = "https://github.com/rust-lang/rustc-guide.git"
@@ -43,10 +43,10 @@ title = "The Rustonomicon"
 repo-url = "https://github.com/rust-lang-nursery/nomicon.git"
 url = "https://doc.rust-lang.org/stable/nomicon/index.html"
 
-[[book]]
-repo-url = "https://github.com/rust-lang/rust.git"
-url = "https://doc.rust-lang.org/stable/unstable-book/index.html"
-folder = "src/doc/unstable-book"
+#[[book]]
+#repo-url = "https://github.com/rust-lang/rust.git"
+#url = "https://doc.rust-lang.org/stable/unstable-book/index.html"
+#folder = "src/doc/unstable-book"
 
 [[book]]
 repo-url = "https://github.com/rust-embedded/book.git"
